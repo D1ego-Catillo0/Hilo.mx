@@ -1,0 +1,6 @@
+{
+  "name": "Hilo - Gestión de Pedidos por Encargo",
+  "description": "Sistema ágil y organizado para negocios de productos personalizados: control de pedidos, anticipos, entregas y clientes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
